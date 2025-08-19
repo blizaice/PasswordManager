@@ -32,6 +32,6 @@ Here's an example of account: <br>
 > ・Images (Logos) are loaded from `/Images` using the `Website` value + `.png`: `google.com.png`. If no image is found, it will try fetching it's `favicon.ico`, in the end displaying `/Images/Default.png` (Placeholder)
 
 ### Screenshots
-<img width="200" src="https://github.com/user-attachments/assets/d5da2f8a-b233-4cb9-92d2-277a64eeb717">
-<img width="200" src="https://github.com/user-attachments/assets/6c834da9-47e1-4b77-a059-7000a5723d29">
-<img width="200" src="https://github.com/user-attachments/assets/2567e447-1674-432e-a351-d923f75b69a9">
+<img width="200" src="https://github.com/user-attachments/assets/1853133a-773e-4f6b-a639-e909b7104211">
+<img width="200" src="https://github.com/user-attachments/assets/f7eee662-ec02-41e4-a874-f218864ff03f">
+<img width="200" src="https://github.com/user-attachments/assets/4cd2c7c1-aa39-4c49-9f44-48928ec6ffcd">
