@@ -67,13 +67,13 @@ Continut.insertAdjacentHTML("beforeend", `
 
 <div style="width: 100%; height: 10px"></div>
 
-<h3>Name</h3><input placeholder="-" value="${Name}" onfocus="this.select()"></input>
+<h3>Name</h3><input placeholder="-" value="${Name}" onfocus="this.select()">
 <div style="width: 100%; height: 10px"></div>
 
-<h3>Email</h3><input placeholder="-" value="${Email}" onfocus="this.select()"></input>
+<h3>Email</h3><input placeholder="-" value="${Email}" onfocus="this.select()">
 <div style="width: 100%; height: 10px"></div>
 
-<h3>Password</h3><input placeholder="-" value="${Password}" onfocus="this.select()"></input>
+<h3>Password</h3><input placeholder="-" value="${Password}" onfocus="this.select()">
 <div style="width: 100%; height: 10px"></div>
 
 <h3>2FA Code</h3>`)
