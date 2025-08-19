@@ -1,0 +1,114 @@
+[
+
+
+{
+"Name": "",
+"Website": "",
+"Email": "",
+"Note": "",
+"Secret": "",
+"Password": ""
+},
+
+
+{
+"Name": "Main Account",
+"Website": "cloudflare.com",
+"Email": "me@blizaice.net",
+"Note": "Backup Email: personal@blizaice.net",
+"Secret": "427226BB42IQT5OBW3XYZRHYYNFJEMD4",
+"Password": "V(8Vqm_6nG!bUa_Y23VOgcW*g29H4|d:(KvTHH0];hr:Yr1Xs7PSOal;6Rtj1RCe^jd^UCf>5]_Dk[kg3a*TSpF?|WIz>rt]_%9J]%1tRBUo81H8RF.K|M[t(VLIz}ZCztbfZcKXSR^l}++:VXeroV8mLuG@l;_m,sZ.Xl0^3+oRHApM3$3[6I96p%[p,CY2KdFB*NS>"
+},
+
+{
+"Name": "",
+"Website": "vercel.com",
+"Email": "me@blizaice.net",
+"Note": "Login via Email without Password",
+"Secret": "",
+"Password": ""
+},
+
+{
+"Name": "Offline Image",
+"Website": "google.com",
+"Email": "",
+"Note": "",
+"Secret": "",
+"Password": ""
+},
+
+{
+"Name": "@blizaice",
+"Website": "discord.com",
+"Email": "me@blizaice.net",
+"Note": "",
+"Secret": "",
+"Password": ""
+},
+
+{
+"Name": "@MyUsername24",
+"Website": "tiktok.com",
+"Email": "me@blizaice.net",
+"Note": "",
+"Secret": "",
+"Password": ""
+},
+
+{
+"Name": "@AltAccount68",
+"Website": "tiktok.com",
+"Email": "personal@blizaice.net",
+"Note": "",
+"Secret": "",
+"Password": ""
+},
+
+{
+"Name": "",
+"Website": "kurogames.com",
+"Email": "",
+"Note": "",
+"Secret": "",
+"Password": ""
+},
+
+{
+"Name": "",
+"Website": "hoyoverse.com",
+"Email": "",
+"Note": "",
+"Secret": "",
+"Password": ""
+},
+
+{
+"Name": "",
+"Website": "telegram.org",
+"Email": "",
+"Note": "",
+"Secret": "",
+"Password": ""
+},
+
+{
+"Name": "",
+"Website": "youtube.com",
+"Email": "",
+"Note": "",
+"Secret": "",
+"Password": ""
+},
+
+{
+"Name": "",
+"Website": "supercell.com",
+"Email": "",
+"Note": "",
+"Secret": "",
+"Password": ""
+}
+
+
+]
